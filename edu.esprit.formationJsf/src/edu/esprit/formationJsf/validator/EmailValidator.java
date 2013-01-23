@@ -9,7 +9,7 @@ import javax.faces.validator.ValidatorException;
 public class EmailValidator implements Validator {
 
 	public EmailValidator() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	@Override
